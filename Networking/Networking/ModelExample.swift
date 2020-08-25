@@ -9,8 +9,6 @@
 import Foundation
 import Alamofire
 
-//this is a git tests
-
 
 struct RandomJokeResponse: Decodable {
     var type: String?
